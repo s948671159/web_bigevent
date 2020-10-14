@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 15px;
+  background-color: #f2f3f5;
+}
+#addSort {
+  float: right;
+  margin-right: 10px;
+}
+#form_dialog_add,
+#form_dialog_Edit {
+  margin-top: 30px;
+}
+#form_dialog_add input,
+#form_dialog_Edit input {
+  width: 300px;
+}
